@@ -1,4 +1,4 @@
-<?php
+MIT-LICENSE.txt<?php
 /**
  * This file is part of workerman.
 *
